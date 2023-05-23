@@ -1,0 +1,26 @@
+{
+  "name": "sass-lang-zh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwgwf/sass-lang-zh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwgwf/sass-lang-zh/issues"
+  },
+  "homepage": "https://github.com/zwgwf/sass-lang-zh#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.75"
+  }
+}
