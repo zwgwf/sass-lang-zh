@@ -226,4 +226,4 @@ span.emoji-women-holding-hands {
 在解析选择器之前，Sass会先解析插值。这意味着你可以放心地使用插值来生成选择器的任何部分，而无需担心解析过程中出现问题。
 :::
 
-你可以将插值与父选择器&、[@at-root规则](../at-rules/at-root)和[选择器函数](https://sass-lang.com/documentation/modules/selector)结合使用，从而在动态生成选择器时展现出强大的能力。如果你想了解更多信息，可以查看[父选择器文档](../style-rules/parent-selector)。
+你可以将插值与[父选择器&](./parent-selector)、[@at-root规则](../at-rules/at-root)和[选择器函数](https://sass-lang.com/documentation/modules/selector)结合使用，从而在动态生成选择器时展现出强大的能力。如果你想了解更多信息，可以查看[父选择器文档](../style-rules/parent-selector)。
