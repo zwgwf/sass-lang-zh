@@ -114,6 +114,7 @@ export default defineConfig({
       prev: '上一页',
       next: '下一页'
     },
+    lastUpdated: true,
     lastUpdatedText: '上次更新时间',
     editLink: {
       text: '对本页提出修改建议',
